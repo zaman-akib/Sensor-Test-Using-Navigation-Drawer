@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "957044771957",
+    "firebase_url": "https://sensornavigation-eab11.firebaseio.com",
+    "project_id": "sensornavigation-eab11",
+    "storage_bucket": "sensornavigation-eab11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957044771957:android:ff8d29c0bed1cd0b07bc3c",
+        "android_client_info": {
+          "package_name": "com.example.sensornavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957044771957-j2jr93ftlnq3qe4s936nrv9ngmo3nke0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sensornavigation",
+            "certificate_hash": "f70d82d8f5874ee5c2a0024945bf77664c929f84"
+          }
+        },
+        {
+          "client_id": "957044771957-uhcnqfbvdjohpbkdmlaqk8ciuvq1bjc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfFvsMbFCwjeCAlpen0q_gvjQHXi3FtYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957044771957-uhcnqfbvdjohpbkdmlaqk8ciuvq1bjc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

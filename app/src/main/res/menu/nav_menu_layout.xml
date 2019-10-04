@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/accelerometer"
+            android:title="Accelerometer Test"
+            android:icon="@drawable/ic_filter_1_black_24dp"
+            />
+        <item
+            android:id="@+id/gyroscope"
+            android:title="Gyroscope Test"
+            android:icon="@drawable/ic_filter_2_black_24dp"
+            />
+        <item
+            android:id="@+id/proximity"
+            android:title="Proximity Test"
+            android:icon="@drawable/ic_filter_3_black_24dp"
+            />
+        <item
+            android:id="@+id/shake"
+            android:title="Shake Detection"
+            android:icon="@drawable/ic_filter_4_black_24dp"
+            />
+    </group>
+
+    <item android:title="Get Direction">
+        <menu>
+            <item
+                android:id="@+id/map"
+                android:title="Google Map"
+                android:icon="@drawable/ic_place_black_24dp"
+                />
+        </menu>
+
+    </item>
+
+    <item android:title="Saved Data">
+        <menu>
+            <item
+                android:id="@+id/gyro_data"
+                android:title="Gyroscope Data"
+                android:icon="@drawable/ic_sort_black_24dp"
+                />
+        </menu>
+
+    </item>
+
+</menu>
